@@ -1,0 +1,36 @@
+header{
+    height: 400px;
+    background-color: rgb(0, 255, 13);
+    text-align:  center;
+    color:rgb(112, 22, 196);
+    padding: 50px;
+    font-size: 50px;
+    background-image: url(https://cdn.javarush.com/images/article/87b0a5c9-8b79-4435-a406-1f69012576df/original.jpeg);
+    background-size: cover;
+}
+
+body{
+    margin: 0px;
+}
+
+
+.container{
+    background-color: rgb(211, 81, 243);
+}
+
+.block1{
+    
+}
+
+.social img {
+    width: 100px;
+    padding-left: 10px;
+}
+
+
+.social {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
